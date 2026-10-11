@@ -1,5 +1,6 @@
 # Aplikasi KU Jokam 354
 https://play.google.com/store/apps/details?id=com.jokam.penguruskeuangan
+https://chatgpt.com/c/6acb300e-b6b0-83ec-91cb-9e7733b7499a
 
 Aplikasi Android ringan untuk membantu pencatatan dan pembagian kartu infak, pengelolaan item jatah maupun item isi sendiri, serta rekap realisasi setoran pada proses KU Jokam 354.
 
